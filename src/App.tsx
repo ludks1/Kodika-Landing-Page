@@ -1,5 +1,5 @@
 import Hero from "./components/Hero";
-import NavBar from "./components/navbar";
+import NavBar from "./components/Navbar";
 import Projects from "./components/Projects";
 
 export default function App() {
