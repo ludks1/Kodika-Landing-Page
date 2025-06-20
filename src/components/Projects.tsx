@@ -6,6 +6,11 @@ export default function Projects() {
         <p className="mt-2">
           Aquí hay algunos de nuestros proyectos recientes:
         </p>
+        <div>
+          <ul>
+            <li></li>
+          </ul>
+        </div>
       </div>
     </section>
   );
